@@ -1,0 +1,1 @@
+<button type="primary" plain="{{true}}" bind:tap="getUserProfile">登录</button>
